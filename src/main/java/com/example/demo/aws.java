@@ -1,7 +1,12 @@
 package com.example.demo;
 
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
 public class aws {
-    public static void main(String[] args) {
-        System.out.print("i'm aws devops engineer");
+    @GetMapping("/aws")
+    public String getData() {
+        return "aws";
     }
 }
