@@ -1,0 +1,7 @@
+this file is for learning purpose of merge conflict
+aws
+devops
+azure
+gcp
+
+this line is edited by usr 1
