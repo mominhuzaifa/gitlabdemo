@@ -4,4 +4,4 @@ devops
 azure
 gcp
 
-this line is edited by usr 1
+this line is edited by usr 1 - "hello remote user 1"
